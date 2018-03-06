@@ -1,0 +1,28 @@
+<!DOC HTML>
+
+<html>
+	<head>
+	<meta charset= "uft-8" />
+	<title> Function- JavaScript </title>
+		<script type = "text/javascript">
+		first_name= "Mandesh";
+		last_name = "Giri";
+		if((first_name=="Mandesh")&&(last_name== "Giri")){
+		
+		document.write("Hello Mandesh Giri");
+		
+		}
+	
+	</script>
+	</head>
+	<body>
+	
+		</body>
+
+
+
+
+
+
+
+</html>
